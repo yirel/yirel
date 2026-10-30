@@ -26,8 +26,8 @@ I am an Information Technology student specializing in Business Analytics, bridg
 ## 📫 Connect With Me
 
 * 🌐 **Portfolio:** [yirel.github.io](https://yirel.github.io/) *(Replace with your live site link)*
-* 📧 **Email:** [kober8266@gmail.com](mailto:kober8266@gmail.com)
-* 💼 **LinkedIn:** [Jacob Riley Fernandez](https://www.linkedin.com/)
+* 📧 **Email:** [kober8266@gmail.com](mailto:jacobrileyfernandez64@gmail.com)
+* 💼 **LinkedIn:** [Jacob Riley Fernandez]([https://www.linkedin.com/](https://www.linkedin.com/in/jacob-fernandez-056a66446/?locale=en-US))
 
 ---
 
